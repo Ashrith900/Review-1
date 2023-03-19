@@ -44,3 +44,6 @@ struct ContentView: View {
     }
 }
 One key difference between our two solutions, though, is that the latter can be applied to any view, while the former only enables us to create String-based featured labels. That’s something that we could address, though, by turning our FeaturedLabel into a custom container view that accepts any kind of View-conforming content, rather than just a plain string:
+
+
+Regarding the design of our application, I have created some rough sketches through swift by exploring the different interfaces as well as through canva. Our gropu has been working on the UI for the app on canva and we have figured out the wireframing. I will attatch the images on the document that I submit on. Above is a very interesting article that I have found regaridng Swift and how it can be very impactful in the wa we structure our code. I don't have anything regarding the code we do in class because I haven't really messed with it, but I have been thinking of ways that I can change the tictactoe app into candy crush like we have bee talking about. I maight implement these changes for my next journal. This is all that I have bee doing regarding my journey through learning swift.
